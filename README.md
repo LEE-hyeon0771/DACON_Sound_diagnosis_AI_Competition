@@ -1,4 +1,4 @@
-# Datacon_project_6.29
+# COVID-19 음성탐지 진단 AI 경진대회
 
 # - 프로젝트명
 
