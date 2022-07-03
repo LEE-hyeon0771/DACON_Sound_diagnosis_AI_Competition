@@ -4,7 +4,7 @@
 COVID-19 AI 음성 진단
 
 # - 대표 이미지(스크린샷)
-<img src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+![제목 없음](https://user-images.githubusercontent.com/84756586/177028081-b93a5576-9457-4e9e-8051-e39288f29180.png)
 
 # - 프로젝트 배경/목표
 1. 발열, 기침 등의 증상과 COVID-19 진단 여부가 모두 포함된 train 데이터
