@@ -15,6 +15,7 @@ COVID-19 AI 음성 진단
 
 # - 개발/배포 환경
 ![제목 없음](https://user-images.githubusercontent.com/84756586/177027893-494d59fb-02a9-41e0-b280-c5ed742c334c.png)
+![keras](https://user-images.githubusercontent.com/84756586/177027963-2665bfa9-2270-43df-84fc-a19179541d59.png)
 
 # - 활용/참고 정보
 https://www.notion.so/COVID19-AI-e9fa1762d50a43a082ef6f2ee52ed1d5
