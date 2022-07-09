@@ -12,6 +12,8 @@ COVID-19 AI 음성 진단
 3. 영상을 일정한 범위의 크기로 제한하여 시각화
 4. CNN 기법을 사용하여 Computer Vision 처리로 train 데이터 학습
 5. test 데이터에 train 데이터를 적용하여 Sample을 진단
+6. MLPClassifier와 Librosa에 대한 이해
+7. MLPClassifier, Support Vector Machine, Random Forest Classifier에 대한 이해 및 사용 
 
 # - 개발/배포 환경
 ![제목 없음](https://user-images.githubusercontent.com/84756586/177027893-494d59fb-02a9-41e0-b280-c5ed742c334c.png)
