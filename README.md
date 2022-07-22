@@ -15,6 +15,9 @@ COVID-19 AI 음성 진단
 6. MLPClassifier와 Librosa에 대한 이해
 7. MLPClassifier, Support Vector Machine, Random Forest Classifier에 대한 이해 및 사용 
 
+# - 최종 결과
+22위 기록(상위 10% 내 성적)
+
 # - 개발/배포 환경
 ![제목 없음](https://user-images.githubusercontent.com/84756586/177027893-494d59fb-02a9-41e0-b280-c5ed742c334c.png)
 ![keras](https://user-images.githubusercontent.com/84756586/177027963-2665bfa9-2270-43df-84fc-a19179541d59.png)
